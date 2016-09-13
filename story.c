@@ -142,6 +142,9 @@ int main(void)
 
 	ztbc68Sentence1();
 	ztbc68Sentence2();
+	
+	kac2z7Sentence1();
+	kac2z7Sentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
